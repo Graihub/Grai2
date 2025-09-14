@@ -1,7 +1,7 @@
 local WindUI = (loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/releases/latest/download/main.lua")))();
 local Window = WindUI:CreateWindow({
-	Title = "Tên Script",
-	Author = "Bờ Lốc Phút",
+	Title = "Grai Hub",
+	Author = "Make By Grai Béo",
 	Folder = "",
 	Size = UDim2.fromOffset(520, 300),
 	Transparent = true,
@@ -10,7 +10,7 @@ local Window = WindUI:CreateWindow({
 	HasOutline = false,
 });
 Window:EditOpenButton({
-	Title = "Tên Script",
+	Title = "Grai Hub",
 	CornerRadius = UDim.new(0, 10),
 	Draggable = false
 });
